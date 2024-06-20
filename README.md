@@ -4,7 +4,8 @@ This project presents an AI tool designed to detect the protein content in vario
 
 Whether you're a gym rat meticulously tracking your macros, a greens enthusiast who still wants protein, a new mother following a keto diet, or simply curious about the nutritional value of your meals, this AI tool offers a convenient solution. It eliminates the hassle of searching through multiple sources and tabs on Google, allowing you to quickly and easily find the protein content of your meals in one place.
 
-![A preview of what the protein detection looks like](https://ibb.co/s3Cz2Gw)
+![A preview of what the protein detection looks like]((https://github.com/incheresting/nvidiaproject/assets/139397694/e8f89b45-22cc-4017-95b0-7dcdfd2e61f9)
+
 
 ## The Algorithm
 
