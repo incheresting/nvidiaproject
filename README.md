@@ -4,6 +4,8 @@ This project presents an AI tool designed to detect the protein content in vario
 
 Whether you're a gym rat meticulously tracking your macros, a greens enthusiast who still wants protein, a new mother following a keto diet, or simply curious about the nutritional value of your meals, this AI tool offers a convenient solution. It eliminates the hassle of searching through multiple sources and tabs on Google, allowing you to quickly and easily find the protein content of your meals in one place.
 
+Here is a preview:
+
 ![A preview of what the protein detection looks like](https://github.com/incheresting/nvidiaproject/assets/139397694/d2caa99e-b37f-4675-846b-6233f36c934a)
 
 ## The Algorithm
@@ -23,6 +25,7 @@ Image Classification: Resnet-18 (through my recognition) is the core model for c
 
 1. Ensure these are imported:
 ![Imports that are needed](https://github.com/incheresting/nvidiaproject/assets/139397694/fc374a59-dbe4-4ee5-a58f-d144a3726d65)
+** The program can not work without resnet-18 and imagenet
 2. To start a live video feed, type "python3 my-recognition.py /dev/video0 [desired file name].mp4"
 3. Ensure the webcam is set up to capture food items accurately
 4. When the image is correctly classified, type ctrl + C
