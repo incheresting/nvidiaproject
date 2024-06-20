@@ -1,8 +1,10 @@
 # My_Protein_Tracker_AI
 
-This project shows the detection of the protein content for various food options. There is a data set with various foods including fruits, vegetables, nuts, and of course meats. Whether you are a gym rat obsessed with their macros, someone who's embracing the keto diet, or just someone who wants to know how much of what their eating, this AI can be helpful. For me, I hate having to go to google and have many tabs open trying to conflate information for the protein of my meal   
+This project presents an AI tool designed to detect the protein content in various food items, including fruits, vegetables, nuts, and meats. The tool leverages a comprehensive dataset covering various foods to provide accurate protein content information.
 
-![add image descrition here](direct image link here)
+Whether you're a gym rat meticulously tracking your macros, a greens enthusiast who still wants protein, a new mother following a keto diet, or simply curious about the nutritional value of your meals, this AI tool offers a convenient solution. It eliminates the hassle of searching through multiple sources and tabs on Google, allowing you to quickly and easily find the protein content of your meals in one place.
+
+![A preview of what the protein detection looks like](https://ibb.co/s3Cz2Gw)
 
 ## The Algorithm
 
