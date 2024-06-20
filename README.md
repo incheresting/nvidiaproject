@@ -23,8 +23,11 @@ Image Classification: Resnet-18 (through my recognition) is the core model for c
 
 1. Ensure these are imported:
 ![Imports that are needed](https://github.com/incheresting/nvidiaproject/assets/139397694/fc374a59-dbe4-4ee5-a58f-d144a3726d65)
-
-2. 
-3. Make sure to include any required libraries that need to be installed for your project to run.
+2. To start a live video feed, type "python3 my-recognition.py /dev/video0 [desired file name].mp4"
+3. Ensure the webcam is set up to capture food items accurately
+4. When the image is correctly classified, type ctrl + C
+![What the classification process looks like](https://github.com/incheresting/nvidiaproject/assets/139397694/ad197f88-bca3-4bb4-8802-77652c259faf)
+5. Download the file of [desired file name] and open. 
+https://github.com/incheresting/nvidiaproject/assets/139397694/ce3f19a9-d269-4070-a873-1e58427e06da
 
 [View a video explanation here](video link)
