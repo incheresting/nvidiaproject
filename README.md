@@ -33,4 +33,4 @@ Image Classification: Resnet-18 (through my recognition) is the core model for c
 5. Download the file of [desired file name] and open. 
 https://github.com/incheresting/nvidiaproject/assets/139397694/ce3f19a9-d269-4070-a873-1e58427e06da
 
-[View a video explanation here](video link)
+[My video explanation!](https://drive.google.com/file/d/1E1CMiaaF1rA-mTBv0KhSGe-2nkIp6F6H/view?usp=sharing)
